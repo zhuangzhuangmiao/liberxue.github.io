@@ -1,7 +1,7 @@
 ---
 layout: blog
 design: true
-background: green
+background: blue
 istop: true
 background-image: http://img.hb.aicdn.com/c671455a6f04c52cbf60daa8332843f224d1e40610cd5f-prEseA_fw658
 category: 设计
