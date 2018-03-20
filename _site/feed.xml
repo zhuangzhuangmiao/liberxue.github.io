@@ -7,6 +7,15 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>《通用设计法则》读书笔记</title>
+        <category>设计</category>
+        <description>概述近期学习了《Universal Principles of Design》（又名《通用设计法则》）这本书，该书是一部跨越各专业领域的设计著作，详解常用设计概念，配以图示实例，帮助设计师快速吸...</description>
+        <pubDate>2017-12-02 04:08:12 </pubDate>
+        <link>http://localhost:4000/2017/12/02/Design-Priciples.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/02/Design-Priciples.html</guid>
+      </item>
+    
+      <item>
         <title>应用中的游戏化设计</title>
         <category>设计</category>
         <description>游戏化介绍游戏借着其互动性、反馈性、挑战性、快速成长性等特点，拥有着让玩家长期专注于其中的神奇力量。而若将游戏的这些特点引入到一般的产品设计上，也可能会产生意想不到的效果，这就是游戏化。游戏化的...</description>
