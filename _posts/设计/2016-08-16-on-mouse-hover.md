@@ -1,6 +1,6 @@
 ---
 layout: blog
-book: true
+design: true
 background: blue
 background-image: http://img.hb.aicdn.com/7960b6b7237013bf1ab8cb6e3e341a69c632ff15f0e8-Ij0bMM_fw658
 category: 设计

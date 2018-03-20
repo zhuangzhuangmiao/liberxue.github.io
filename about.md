@@ -1,9 +1,8 @@
 ---
 layout: blog
-title: 关于MiaoXinyi
+title: 关于我
 data: 2018-02-11 09:19:11
 tags: 
-- About
 - 生活
 redirect_from:
   - /about/
@@ -114,7 +113,7 @@ redirect_from:
 # 联系方式
 ******
  
-你可以通过以下几种方式联系到我。
+你可以通过以下方式联系到我。
  
-* [发邮件](mailto:justadreammiao@hotmail.com)
+* [发邮件](mailto:justadreammiao@hotmail.com) justadreammiao@hotmail.com
 
