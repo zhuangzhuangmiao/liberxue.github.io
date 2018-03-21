@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MiaoXinyi|Design|GitHub blog</title>
+    <title>MiaoXinyi |Designer |GitHub blog</title>
     <description>生活|设计|思考</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>解读信息架构</title>
+        <category>设计</category>
+        <description>对于交互设计师来说，信息架构设计是工作中最核心的内容之一，本文主要从信息架构的定义、组成、和策略三个方面对信息架构做一个相对全面的诠释，为交互设计的工作提供理论依据和方法指导。信息架构的定义关于...</description>
+        <pubDate>2017-12-30 22:33:05 </pubDate>
+        <link>http://localhost:4000/2017/12/30/IA.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/30/IA.html</guid>
+      </item>
     
       <item>
         <title>《通用设计法则》读书笔记</title>
