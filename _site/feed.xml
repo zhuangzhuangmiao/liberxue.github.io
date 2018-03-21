@@ -7,6 +7,24 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>常见平台设计规范解读</title>
+        <category>设计</category>
+        <description>概念在资料搜索的时候发现，有许多听起来相似的概念：设计原则、设计规范、设计语言、设计系统，这些概念要怎么区分，概念间又有什么关系？在对各概念做了一个详细了解加上导师的梳理讲解之后之后，我梳理出了...</description>
+        <pubDate>2018-03-13 04:32:11 </pubDate>
+        <link>http://localhost:4000/2018/03/13/Design-Guidelines.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/03/13/Design-Guidelines.html</guid>
+      </item>
+    
+      <item>
+        <title>记一次以前</title>
+        <category></category>
+        <description>记一次以前。从来都不念旧的，直到昨晚云音乐被分享了门德尔松，突然疯了一般找其它的曲子，找雅尼，找理查德克莱曼，班得瑞，李斯特，宗次郎。直到再一次听到夜莺,故乡的原风景还有很多叫不动名字的曲子。突...</description>
+        <pubDate>2018-03-09 07:16:11 </pubDate>
+        <link>http://localhost:4000/2018/03/09/Memory.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/03/09/Memory.html</guid>
+      </item>
+    
+      <item>
         <title>解读信息架构</title>
         <category>设计</category>
         <description>对于交互设计师来说，信息架构设计是工作中最核心的内容之一，本文主要从信息架构的定义、组成、和策略三个方面对信息架构做一个相对全面的诠释，为交互设计的工作提供理论依据和方法指导。信息架构的定义关于...</description>
@@ -103,15 +121,6 @@
         <pubDate>2016-08-17 04:35:12 </pubDate>
         <link>http://localhost:4000/2016/08/17/on-mouse-hover.html</link>
         <guid isPermaLink="true">http://localhost:4000/2016/08/17/on-mouse-hover.html</guid>
-      </item>
-    
-      <item>
-        <title>HelloWorld|Test</title>
-        <category>生活</category>
-        <description>My first blog!Hello World!</description>
-        <pubDate>2016-05-21 07:44:09 </pubDate>
-        <link>http://localhost:4000/2016/05/21/helloworldtest.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/05/21/helloworldtest.html</guid>
       </item>
     
   </channel>

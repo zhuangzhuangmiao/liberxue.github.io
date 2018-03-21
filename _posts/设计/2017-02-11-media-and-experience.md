@@ -1,7 +1,7 @@
 ---
 layout: blog
 design: true
-background: yellow
+background: white
 background-image: http://img.hb.aicdn.com/f4502e70f406d625bf7f49c59b6126270f503a10500e6-11VvK8_fw658
 category: 设计
 title: 媒介与体验
