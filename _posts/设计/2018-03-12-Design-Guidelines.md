@@ -69,6 +69,8 @@ redirect_from:
 | iOS 11 - Apple - Human Interface Guidelines | Mac OS - Apple - Human Interface Guidelines | AntDesign               |
 | Android - Material Design Guidelines        | Windows - Fluent Design System              | Lightning Design System |
 
+---
+
 # 移动端设计规范
 
 ![](http://img.hb.aicdn.com/e3f67901cd098b07e7086af5adebc1402835e2d7af92-E1hShI_fw658)
@@ -115,7 +117,7 @@ iOS 11最大的更新就是iphone X 的新交互。iphoneX作为全面屏，取�
 
 ![](http://img.hb.aicdn.com/cc5c7c65e01c7044a0078d57844d9540b049bb8c15d89-4EYqPG_fw658)
 
-
+---
 
 ## Material Design
 
@@ -131,6 +133,8 @@ MD新内容离线状态：允许没有连接互联网的用户使用APP
 
 ![](http://img.hb.aicdn.com/d5a8c6afe681fb48ffb40549723da5901302cbe924240-E94gpg_fw658)
 
+---
+
 ## 移动端设计规范对比
 
 - 从设计思路上看，MD是一种设备中世界的隐喻，这种隐喻来自于现实世界，引入材料的概念，在屏幕世界中，每个元素都是一个material，它具有长度宽度和厚度，以及阴影来体现层级关系。这种隐喻给人一种很自然的感觉，仿佛手机里的卡片真实存在。而HIG则更倾向于抽象设计元素，突出内容，精准传达信息。符号设计不再是对现实实物的精准模拟，而是设计成象形文字一样来暗示用户符号所代表的意义。这样一种思路的好处是在有限的用户界面中减少了符号设计带来的干扰信息，凸显了应用需要传达的主要信息。
@@ -145,6 +149,8 @@ MD新内容离线状态：允许没有连接互联网的用户使用APP
   > iOS 7系统发布，新加入了两个交互，第一是“双击home键进入单手模式（reachability）”，第二是“右滑返回上一级”。单从这两个交互来看，单手模式（或者说小屏模式）明显不是一个decent的解决办法，而第二个交互很棒，并且从目前来看，已经彻底变成了所有苹果手机用户的交互习惯。苹果认为这个用户习惯已经养成之后，在新的iphone X取消了home键，也就是说，在iphone X上，之前双击home的单手模式交互应该是不复存在了。现在安卓应用也有用“右滑返回上一级”，但有时候会与tab间的切换冲突。---SeanyDesign
 
   ![](http://img.hb.aicdn.com/2a3df41be41815bc2f121da59f179e737aefeeba19fa6-tre5X9_fw658)
+
+  ---
 
 # PC端设计规范
 
@@ -163,6 +169,8 @@ MD新内容离线状态：允许没有连接互联网的用户使用APP
 相比iOS HIG 而言 OS X 文档读的人少很多，客观原因自然是国内 Mac 用户不多，做 Mac 应用的市场太小众，没什么人愿意去做，自然也就没什么需求。
 
 主流操作系统中，macOS 与Window间的交互操作差异比较大，转换成本也比较高。比如Mac 的窗口关闭/最小化在左边，而Windows在右边；软件安装交互的差异，菜单栏、工具栏的差异等等。所以本文不探讨两个操作系统间的交互差异，而是探讨两个系统各自的演变过程。
+
+---
 
 ## The Fluent Design System
 
@@ -218,7 +226,7 @@ FDS的完成度还不高。新的FluentDesign设计系统是为了设计师扩�
 
 <embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=19745038&p=1"></embed>
 
-
+---
 
 # 后台产品设计规范
 
@@ -245,6 +253,8 @@ AntD – 特性(下图)
 
 Ant Design 设计语言的核心是设计价值观，设计价值观影响到设计的各类场景，产生与之对应的原则、视觉呈现方式、交互模式等内容。
 
+---
+
 ## Lightning Design System 
 
 规范内容
@@ -261,6 +271,8 @@ Ant Design 设计语言的核心是设计价值观，设计价值观影响到设
 
 - 相对微观化，设计思想偏向于组件化和模块化。
 - 紧贴业务，展示最佳实践
+
+---
 
 # 总结
 
