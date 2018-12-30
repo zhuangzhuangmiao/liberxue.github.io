@@ -17,4 +17,4 @@ redirect_from:
 
 Hello World!
 
-![](../thumbnails/test/title.jpg)
+![](http://zhuangzhuangmiao.github.io/thumbnails/test/title.jpg)

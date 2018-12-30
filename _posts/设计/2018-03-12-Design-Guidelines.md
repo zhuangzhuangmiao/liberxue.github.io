@@ -186,7 +186,7 @@ FDS的完成度还不高。新的FluentDesign设计系统是为了设计师扩�
 
 ![](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/d17.png)
 
-![](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/title.png)
+![](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/title.jpg)
 
 - 深度-亚克力材料：亚克力是一种画笔，用于创建半透明纹理,与毛玻璃相比更具有质感。 你可以将亚克力应用到应用图面中，并帮助构建视觉层次结构。用于在应用中添加物理纹理（材料）和深度。
 
