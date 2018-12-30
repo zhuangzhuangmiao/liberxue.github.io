@@ -3,7 +3,7 @@ layout: blog
 design: true
 background: blue
 istop: true
-background-image: http://img.hb.aicdn.com/06498aeab199ed0961923afacff57e94d97cd5991639bc-6UuWMN_fw658
+background-image: ../thumbnails/gamification-design/title.png
 category: 设计
 title: 应用中的游戏化设计
 tags:

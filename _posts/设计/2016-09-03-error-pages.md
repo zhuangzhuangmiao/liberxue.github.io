@@ -1,7 +1,7 @@
 ---
 layout: blog
 design: true
-background-image: http://img.hb.aicdn.com/44b8d4a38643706bb2d1c1a2c59cd4d8e6f7215a69c6-Noxah7_fw658
+background-image: ../thumbnails/page404/title.png
 category: 设计
 title: 404页面的几个设计思路
 tags:

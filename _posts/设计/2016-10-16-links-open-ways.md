@@ -1,7 +1,7 @@
 ---
 layout: blog
 design: true
-background-image: http://img.hb.aicdn.com/4153c47527a43a1d27808f6db0b05b1c947c30c913c8e-kRRGNz_fw658
+background-image: ../thumbnails/link-opening/title.jpg
 category: 设计
 title: 链接打开方式的博弈
 tags:

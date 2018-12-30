@@ -1,7 +1,7 @@
 ---
 layout: blog
 design: true
-background-image: http://img.hb.aicdn.com/b113c9b99d493ca8224228d95fc1c574acb5707b31eca-kD1rds_fw658
+background-image: ../thumbnails/intelligent-text-reading/title.png
 category: 设计
 title: 【智能文字读取】交互思考
 tags:

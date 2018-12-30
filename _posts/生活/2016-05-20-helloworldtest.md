@@ -1,7 +1,7 @@
 ---
 layout: blog
 life: true
-background-image: https://cdna.artstation.com/p/assets/images/images/009/876/382/large/wonbin-lee-kakaotalk-20180315-165934159.jpg
+background-image: ../thumbnails/test/title.jpg
 category: 生活
 title: HelloWorld|Test
 tags:
@@ -17,4 +17,4 @@ redirect_from:
 
 Hello World!
 
-![](https://mir-s3-cdn-cf.behance.net/projects/404/c58f6f50160321.58c8fafe6ab20.jpg)
+![](../thumbnails/test/title.jpg)
