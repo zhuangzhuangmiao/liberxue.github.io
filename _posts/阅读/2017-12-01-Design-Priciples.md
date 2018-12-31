@@ -3,7 +3,7 @@ layout: blog
 design: true
 background: blue
 istop: true
-background-image: http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/title.png
+background-image: http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/title.png
 category: 设计
 title: 《通用设计法则》读书笔记
 tags:
@@ -92,7 +92,7 @@ redirect_from:
 
 **噪音最小化** 指去除或减少不必要的干扰元素，适当使用设计元素。（如表格中的分割线可以淡一点）
 
-![2](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d1.png)
+![2](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d1.png)
 
 苹果官网的介绍页中，没有任何多余的元素，高清图片+介绍文字，能让任何一个到达此页面的用户清晰快速地了解产品信息。
 
@@ -102,7 +102,7 @@ redirect_from:
 >
 > 在所有大系统中，高达80%的效果是由仅占20%的关键因素决定的；产品80%的使用只使用了20%的功能。二八法则有助于资源的整合，因此可以提升设计的最大化。
 
-![1](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d2.png)
+![1](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d2.png)
 
 Gmail的邮件类别中，直接显示的只有人们最常使用（80%）的其中的几个类别（20%），要显示其它类别需要点击更多标签展开。即使纵向空间足够展示所有类别，但Gmail选择将不常使用的类别隐藏起来，从而聚焦于最常用到的类别。
 
@@ -114,11 +114,11 @@ Gmail的邮件类别中，直接显示的只有人们最常使用（80%）的其
 >
 > 分类法主要分为二维分类法和三维分类法。
 
-![3](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d3.png)
+![3](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d3.png)
 
 淘宝首页的分类
 
-![4](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d4.png)
+![4](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d4.png)
 
 淘宝搜索结果页的分类
 
@@ -134,7 +134,7 @@ Gmail的邮件类别中，直接显示的只有人们最常使用（80%）的其
 >
 > 接近性法则主张靠在一起的元素会被视为一组或一个模块，因此，比起分开较远的元素，紧靠的元素会被视为有关联性。
 
-![5](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d5.png)
+![5](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d5.png)
 
 Airbnb的输入组合符合接近性法则，用户能够感知到搜索按钮是和前三个输入框是有关联的。
 
@@ -144,7 +144,7 @@ Airbnb的输入组合符合接近性法则，用户能够感知到搜索按钮�
 >
 > 如果其它因素相同，那么相似的物体看起来归属于一组。
 
-![6](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d6.png)
+![6](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d6.png)
 
 阿里云的云计算产品功能图标形态具有相似性，表示它们之间是相关的。而选中的那个用蓝色标亮，则又与其它未选中的区分开了。
 
@@ -154,7 +154,7 @@ Airbnb的输入组合符合接近性法则，用户能够感知到搜索按钮�
 >
 > 视觉倾向于感知连续的形式而不是离散的碎片
 
-![7](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d7.png)
+![7](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d7.png)
 
 列表的应用中会添加分割线使得 【行】的连续感变强。若没有分割线，根据接近性则知觉会更倾向于意识到【列】。
 
@@ -164,7 +164,7 @@ Airbnb的输入组合符合接近性法则，用户能够感知到搜索按钮�
 >
 > 视觉系统自动尝试将敞开的图形关闭起来，从而将其感知为完整的物体而不是分散的碎片。
 
-![12](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d8.png)
+![12](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d8.png)
 
 APP常用的汉堡菜单展开后右边会留一部分上一个页面的图，由于知觉上的封闭性，人们会很自然地认为右边的页面被覆盖住或者被推到右侧去了。
 
@@ -192,7 +192,7 @@ APP常用的汉堡菜单展开后右边会留一部分上一个页面的图，�
 >
 > 主要通过合适的字号大小，字体、颜色对比、间距、和对齐方式来保证易读性。
 
-![8](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d9.png)
+![8](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d9.png)
 
 新闻资讯类网站常常内容繁多，网易新闻则处理得很好，通过字号的对比，合理的行距，将最重要的新闻用最大字号放在中间板块，很好地突出了重点，能让访客以最快的速度获取最重要的信息。
 
@@ -212,11 +212,11 @@ APP常用的汉堡菜单展开后右边会留一部分上一个页面的图，�
 >
 > 相同或相似的行为在界面交互上表现为相同或相似的操作形态或操作序列。
 
-![9](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d10.png)
+![9](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d10.png)
 
 相同功能的按钮在视觉上保持一致性。
 
-![25](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d11.png)
+![25](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d11.png)
 
 同一个网站的不同页面间保持结构上的一致性，有助于用户快速认知和操作。
 
@@ -230,7 +230,7 @@ APP常用的汉堡菜单展开后右边会留一部分上一个页面的图，�
 >
 > 形式服从功能指的是形式不独立于功能而存在，体现在界面设计上就是功能与可用性优先、设计师应该处理好形式与功能之间的平衡。
 
-![20](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d12.png)
+![20](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d12.png)
 
 Confluence产品页面与其官网页面有着形式上强烈的差异，官网页面形式上更具有美感。原因是其产品承载的功能众多，且对效率的要求高，形式上的美感则相对削弱。而官网作为产品兜售区，则更需要视觉上的美感来吸引用户。
 
@@ -240,7 +240,7 @@ Confluence产品页面与其官网页面有着形式上强烈的差异，官网�
 >
 > 直接操作指的是在一个过程中通过用手指、鼠标或其它扩展意义的“手”等来选择数字对象，然后可以操作对象，如移动、旋转、拖拽到回收站、改变颜色的。其核心是【需要在哪里输出，就要允许在哪里输入】,即支持直接在上下文编辑。
 
-![21](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d13.png)
+![21](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d13.png)
 
 直接操作实现了 所见即所得 的效果。
 
@@ -275,11 +275,11 @@ Confluence产品页面与其官网页面有着形式上强烈的差异，官网�
 >
 > 逐级展开是一种处理复杂信息的策略，即只有在需要或是要求的情况下，才会显示资料。
 
-![13](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d14.png)
+![13](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d14.png)
 
 表单填写时的提示是一个很好的逐级展开的例子，只有当前输入框被激活时，才出现输入提示。
 
-![19](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d15.png)
+![19](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d15.png)
 
 邮箱列表中默认只显示【刷新】操作按钮，只有当选中了某些邮件时才会展开【删除】【归档】等操作按钮。帮用户从过多操作按钮的界面中解放出来。
 
@@ -301,7 +301,7 @@ Confluence产品页面与其官网页面有着形式上强烈的差异，官网�
 >
 > 除此之外，还可以将目标放在屏幕的边缘或角落上来使其更容易被选中。
 
-![14](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d16.png)
+![14](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d16.png)
 
 Windows的任务栏和Mac OS 的Dockbar 都默认放在屏幕底部，Windows的菜单按钮放在屏幕左下角，为“无限可选中区域”，都是为了常用功能更容易被选中的设计策略；
 
@@ -313,7 +313,7 @@ Windows的任务栏和Mac OS 的Dockbar 都默认放在屏幕底部，Windows的
 >
 > 当选项增加，做决定的时间也增加
 
-![17](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d17.png)
+![17](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d17.png)
 
 当选项过多时，常常采用 推荐策略 和 分组策略 以减少用户做决定的时间。
 
@@ -323,7 +323,7 @@ Windows的任务栏和Mac OS 的Dockbar 都默认放在屏幕底部，Windows的
 >
 > 人们辨认曾经经历过的事，比回想记忆中的事更容易。是因为辨认过程为记忆提供了线索，有助于穿梭记忆搜索。
 
-![10](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d18.png)
+![10](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d18.png)
 
 常用的搜索工具，激活输入框时，都会有历史记录下拉框出现，减轻用户的记忆负荷。
 
@@ -335,7 +335,7 @@ Windows的任务栏和Mac OS 的Dockbar 都默认放在屏幕底部，Windows的
 >
 > 设计师在设计时，要考虑普通大众的心智模式，如果使用某件东西时，已经有一个标准的心智模式，设计师必须试着先达到那个模式的标准。
 
-![11](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d19.png)
+![11](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d19.png)
 
 常见的电商网站的购物车、文件系统的文件夹、回收站等都考虑到了用户的心智模型。
 
@@ -361,19 +361,19 @@ Windows的任务栏和Mac OS 的Dockbar 都默认放在屏幕底部，Windows的
 >
 > 良好的功能可见性、撤销、确认、警告和帮助。
 
-![16](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d20.png)
+![16](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d20.png)
 
 图为电脑设备状态栏和浏览器下载状态栏。状态栏不应太占视觉空间，但又能清晰显示系统当前状态。
 
-![15](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d21.png)
+![15](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d21.png)
 
 编辑的文档在退出时会弹出确认框，减少误操作而关闭带来的失误，软件的自动保存设置也规避了因为意外而未手动保存导致文件丢失的风险。
 
-![18](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d22.png)
+![18](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d22.png)
 
 提供【撤销】让用户从错误中恢复。
 
-![23](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d23.png)
+![23](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d23.png)
 
 当发生错误时提供错误信息和帮助。
 
@@ -385,7 +385,7 @@ Windows的任务栏和Mac OS 的Dockbar 都默认放在屏幕底部，Windows的
 >
 > 一般在界面操作流程中，用户都不希望自己被打断。
 
-![24](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d24.png)
+![24](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d24.png)
 
 若非必要，避免过多使用模态弹窗，使用轻量级的提示，避免让用户感觉自己的操作被打断；
 
@@ -397,7 +397,7 @@ Windows的任务栏和Mac OS 的Dockbar 都默认放在屏幕底部，Windows的
 >
 > 在交互设计过程中合理设置限制因素，与给与用户控制感并不是相违背的，相反，合理加入限制因素能够防止用户误操作、保证交互行为得以顺利进行。
 
-![22](http://zhuangzhuangmiao.github.io/thumbnails/Design-spec/principles-of-design/d25.png)
+![22](http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/d25.png)
 
 如前进后退按钮，当在第一页时，后退按钮禁用置灰；
 
