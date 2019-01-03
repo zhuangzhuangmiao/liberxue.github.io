@@ -7,6 +7,15 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Summary Of Year</title>
+        <category></category>
+        <description>layout: blogdesign: truebackground: yellowbackground-image: ../thumbnails/summary-of-2018/title.p...</description>
+        <pubDate>2018-12-31 00:00:00 </pubDate>
+        <link>http://localhost:4000/2018/12/31/summary-of-year.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/31/summary-of-year.html</guid>
+      </item>
+    
+      <item>
         <title>常见平台设计规范解读</title>
         <category>设计</category>
         <description>概念在资料搜索的时候发现，有许多听起来相似的概念：设计原则、设计规范、设计语言、设计系统，这些概念要怎么区分，概念间又有什么关系？在对各概念做了一个详细了解加上导师的梳理讲解之后之后，我梳理出了...</description>
@@ -112,15 +121,6 @@
         <pubDate>2016-09-03 23:32:11 </pubDate>
         <link>http://localhost:4000/2016/09/03/error-pages.html</link>
         <guid isPermaLink="true">http://localhost:4000/2016/09/03/error-pages.html</guid>
-      </item>
-    
-      <item>
-        <title>关于鼠标悬停事件的7种用法</title>
-        <category>设计</category>
-        <description>最近写网页前端的过程中，发现会经常用到伪类的使用，如:link,:visited,:hover,:active,:disabled等。其中:link通常表示未点击链接的状态，:visited则为...</description>
-        <pubDate>2016-08-17 04:35:12 </pubDate>
-        <link>http://localhost:4000/2016/08/17/on-mouse-hover.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/08/17/on-mouse-hover.html</guid>
       </item>
     
   </channel>
