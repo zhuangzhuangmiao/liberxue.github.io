@@ -1,6 +1,6 @@
 ---
 layout: blog
-design: true
+life: true
 istop: true
 background: yellow
 background-image: ../thumbnails/summary-of-2018/title.png

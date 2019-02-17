@@ -42,5 +42,5 @@ redirect_from:
 
 复杂的有挑战性的需求当然设计师要花80%的精力处理啦>-<打上鸡血冲呀喂~
 
-![show](http://zhuangzhuangmiao.github.io/thumbnails/the-value-of-design/d1.png)
+![show](http://zhuangzhuangmiao.github.io/thumbnails/the-value-of-design/d1.jpg)
 
