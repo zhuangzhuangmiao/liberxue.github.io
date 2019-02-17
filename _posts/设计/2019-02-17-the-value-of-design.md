@@ -1,7 +1,7 @@
 ---
 layout: blog
 design: true
-background: red
+background: green
 istop: true
 background-image: ../thumbnails/the-value-of-design/title.png
 category: 设计
