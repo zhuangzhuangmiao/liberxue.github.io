@@ -7,6 +7,15 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>做有价值的设计</title>
+        <category>设计</category>
+        <description>工作小半年，学习了许多，成长了许多，走过一些弯路也踩过一些坑，到目前对我影响最大的还是标题那句话：做有价值的设计。有时候看起来很棒的设计方案、漂亮的设计稿并不是真正有价值的输出，设计师应该学习练...</description>
+        <pubDate>2019-02-17 21:32:11 </pubDate>
+        <link>http://localhost:4000/2019/02/17/the-value-of-design.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/17/the-value-of-design.html</guid>
+      </item>
+    
+      <item>
         <title>2018，Find My Way</title>
         <category>生活</category>
         <description>2018，从象牙塔下的大学生到职场中的社会人，也算是人生中一个说大不大说小不小的转折点了。这应该是我人生中的第一个年终总结，最开始写的原因是因为部门要求，但在工作的这半年，也领略到总结的重要性，...</description>
@@ -112,15 +121,6 @@
         <pubDate>2016-09-29 05:24:12 </pubDate>
         <link>http://localhost:4000/2016/09/29/ad-mod.html</link>
         <guid isPermaLink="true">http://localhost:4000/2016/09/29/ad-mod.html</guid>
-      </item>
-    
-      <item>
-        <title>404页面的几个设计思路</title>
-        <category>设计</category>
-        <description>经常有看到一些平台分享404页面的设计，但只是丢了一些别人设计好的页面，再无其它说明。毕竟设计师都清楚设计404页面并不是只是单纯地画一幅插画而已。于是花了一些时间搜集和分析了404页面的设计，...</description>
-        <pubDate>2016-09-03 23:32:11 </pubDate>
-        <link>http://localhost:4000/2016/09/03/error-pages.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/09/03/error-pages.html</guid>
       </item>
     
   </channel>
