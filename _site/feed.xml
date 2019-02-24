@@ -7,6 +7,15 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>从游戏聊到湾湾</title>
+        <category>生活</category>
+        <description>昨天晚上刚刷到《还愿》这个游戏，由赤烛游戏于2月19日（据说是上元节）发布在steam上的一款恐怖解谜游戏。因为剧情音乐都很出色，所以最近网上流传颇广。而虽然是我喜欢的游戏类型（互动电影），恐怖...</description>
+        <pubDate>2019-02-24 06:31:00 </pubDate>
+        <link>http://localhost:4000/2019/02/24/wanwan.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/24/wanwan.html</guid>
+      </item>
+    
+      <item>
         <title>做有价值的设计</title>
         <category>设计</category>
         <description>工作小半年，学习了许多，成长了许多，走过一些弯路也踩过一些坑，到目前对我影响最大的还是标题那句话：做有价值的设计。有时候看起来很棒的设计方案、漂亮的设计稿并不是真正有价值的输出，设计师应该学习练...</description>
@@ -112,15 +121,6 @@
         <pubDate>2016-10-07 03:24:18 </pubDate>
         <link>http://localhost:4000/2016/10/07/mwords.html</link>
         <guid isPermaLink="true">http://localhost:4000/2016/10/07/mwords.html</guid>
-      </item>
-    
-      <item>
-        <title>关于超级课程表新增的小广告模块</title>
-        <category>设计</category>
-        <description>试想一下如下两个校园场景：  1.同学A出去张贴将要举办的社团活动的海报，在地点1处贴好一张海报后前往地点2继续张贴，半小时后回到地点1，却发现先前张贴的海报早已被别的海报覆盖。同学A感到很愤怒...</description>
-        <pubDate>2016-09-29 05:24:12 </pubDate>
-        <link>http://localhost:4000/2016/09/29/ad-mod.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/09/29/ad-mod.html</guid>
       </item>
     
   </channel>
