@@ -2,7 +2,6 @@
 layout: blog
 design: true
 background: blue
-istop: true
 background-image: ../thumbnails/gamification-design/title.png
 category: 设计
 title: 应用中的游戏化设计

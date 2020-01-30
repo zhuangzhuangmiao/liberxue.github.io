@@ -1,7 +1,6 @@
 ---
 layout: blog
 life: true
-istop: true
 background: yellow
 background-image: ../thumbnails/summary-of-2018/title.png
 title: 2018，Find My Way
@@ -48,14 +47,11 @@ redirect_from:
 
 期间麻麻发生事故住院了，回去在病房陪了一个多星期，吃住都在病房里，只记得和其他病床的人一起聊了很多的天，看了很多无聊的电视剧，翻到了在出院时跟麻麻的合影。
 
-![d2](http://zhuangzhuangmiao.github.io/thumbnails/summary-of-2018/d2.jpg)
-
 ## 毕业仪式
 
 每当分别的时候总是有很多的仪式，拍毕业照、参加毕业典礼、毕业聚会、毕业旅行...生活似乎总是通过这些仪式来提醒我们，人跟人之间依然有着这样那样的连结，生活总是有可以期望的愿望，有值得回忆的过往。毕业典礼上大家一起唱着离别的歌曲，朋友圈里转发着一条又一条的毕业典礼视频“我会牢牢记住你的脸，我会珍惜你给的思念”，大家最后一起合影，留念。
 
 毕业旅行去了青海，那里有蓝天和白云都仿佛就在面前，在蜿蜒的山路上晕车的我，到了目的地又像打了鸡血一样，冲出车门，大口呼吸，多希望眼睛就是摄像机，眨一下眼睛，就存储了一张风景。
-![385a8d82c08176b09589d535e692cd15.jpeg](http://zhuangzhuangmiao.github.io/thumbnails/summary-of-2018/d3.jpg)
 
 # 社会人
 
@@ -71,7 +67,6 @@ redirect_from:
 铲屎官依然热爱他的技术，开始健身、理财，而且都还做得很好；
 
 所看到的大家，都在努力好好地生活、不断成熟与前行。
-![5582ab83d2c17c96b2dd490991eadc9c.jpeg](http://zhuangzhuangmiao.github.io/thumbnails/summary-of-2018/d5.jpg)
 
 ## 小棉袄
 
@@ -80,7 +75,6 @@ redirect_from:
 “大棉袄了”麻麻说。
 “我妈真好看，我爸真帅”
 “怎么就生了你这么个野孩子”贝贝说。
-![de25cd68923d1a52b2b493069cb16a74.jpeg](http://zhuangzhuangmiao.github.io/thumbnails/summary-of-2018/d6.jpg)
 
 # 工作
 

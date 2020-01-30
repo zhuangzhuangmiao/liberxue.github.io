@@ -2,7 +2,6 @@
 layout: blog
 design: true
 background: white
-istop: true
 background-image: ../thumbnails/Design-spec/title.jpg
 category: 设计
 title: 常见平台设计规范解读

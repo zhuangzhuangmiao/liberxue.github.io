@@ -2,7 +2,6 @@
 layout: blog
 design: true
 background: yellow
-istop: true
 background-image: ../thumbnails/filter/title.jpg
 category: 设计
 title: Web筛选器设计小结

@@ -7,6 +7,69 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>2019个人年度大小事件盘点</title>
+        <category>生活</category>
+        <description>2019 不算平淡，生活工作发生了大大小小的转变，在19年即将谢幕的关头，为了证明我还在路上，还是把大小事回忆了一遍。大事件0：结束一段感情  无论你从什么时候开始，重要的是开始后就不要停止。无...</description>
+        <pubDate>2019-12-22 07:55:00 </pubDate>
+        <link>http://localhost:4000/2019/12/22/summary-of-year.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/12/22/summary-of-year.html</guid>
+      </item>
+    
+      <item>
+        <title>迷思：交互设计的价值与未来</title>
+        <category>设计</category>
+        <description>工作快一年半了，大大小小的项目处理了几件，有的项目会受到项目组赞扬，有的也会平平淡淡过去，也有的会受到项目组的诸如排期太长流程太长的吐槽。在实际情况中，也常常会面对作为交互设计师没有话语权，需要...</description>
+        <pubDate>2019-11-17 03:22:08 </pubDate>
+        <link>http://localhost:4000/2019/11/17/value-and-future.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/17/value-and-future.html</guid>
+      </item>
+    
+      <item>
+        <title>数据可视化设计基础</title>
+        <category>设计</category>
+        <description>2019有半年多的时间里我是负责了一款数据可视化大屏工具的设计，加上实习期间对BI产品的初步了解，目前对数据可视化这个领域也能够有一些东西可以输出了。话说在前头，数据可视化对于设计师来说真是个很...</description>
+        <pubDate>2019-10-25 07:30:19 </pubDate>
+        <link>http://localhost:4000/2019/10/25/visualization.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/10/25/visualization.html</guid>
+      </item>
+    
+      <item>
+        <title>效率工具-2019</title>
+        <category>设计</category>
+        <description>开个槽记录工作生活相关的效率工具。新工具总是层出不穷的，当一款产品在产品逻辑、交互设计、或者是内容方面击中我在某一个场景的痛点，并让我觉得完成任务更顺畅的时候，我就会开始用这款工具了。下面是本年...</description>
+        <pubDate>2019-08-18 22:10:08 </pubDate>
+        <link>http://localhost:4000/2019/08/18/efficiency-tool.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/18/efficiency-tool.html</guid>
+      </item>
+    
+      <item>
+        <title>如何向视觉传达设计需求</title>
+        <category>设计</category>
+        <description>因最近半年被外派轮岗项目经理，切身感受到产品经理工作的繁杂，产品经理日常除了处理文档，大部分时间都在沟通上，与需求方或市场沟通挖掘需求、与研发探讨技术可行性、处理用户反馈、与视觉传达设计需求，以...</description>
+        <pubDate>2019-07-13 04:10:15 </pubDate>
+        <link>http://localhost:4000/2019/07/13/communicte-with-ui.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/13/communicte-with-ui.html</guid>
+      </item>
+    
+      <item>
+        <title>关于竞品分析的思考</title>
+        <category>设计</category>
+        <description>引子竞品分析的方法论目前已经很成熟了，在此不再赘述。下面是一些在工作实践中的心得体会，工作中有一次调研竞品的用户权限体系和角色分配逻辑相关的内容时，我把竞品的体系和相同点不同点全都罗列了出来，自...</description>
+        <pubDate>2019-06-02 20:30:19 </pubDate>
+        <link>http://localhost:4000/2019/06/02/competitive-analysis.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/06/02/competitive-analysis.html</guid>
+      </item>
+    
+      <item>
+        <title>Web筛选器设计小结</title>
+        <category>设计</category>
+        <description>筛选器在应用中是十分常见的模块，用户通过筛选器快速精确地找到目标内容，缩小数据的选择范围。在工作中由于不同的业务诉求，筛选器也各异，下面总结了Web常见筛选器设计方式。筛选器位置  内容上方，内...</description>
+        <pubDate>2019-04-08 07:39:09 </pubDate>
+        <link>http://localhost:4000/2019/04/08/filter-design-of-web.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/08/filter-design-of-web.html</guid>
+      </item>
+    
+      <item>
         <title>从游戏聊到湾湾</title>
         <category>生活</category>
         <description>昨天晚上刚刷到《还愿》这个游戏，由赤烛游戏于2月19日（据说是上元节）发布在steam上的一款恐怖解谜游戏。因为剧情音乐都很出色，所以最近网上流传颇广。而虽然是我喜欢的游戏类型（互动电影），恐怖...</description>
@@ -58,69 +121,6 @@
         <pubDate>2017-12-30 22:33:05 </pubDate>
         <link>http://localhost:4000/2017/12/30/IA.html</link>
         <guid isPermaLink="true">http://localhost:4000/2017/12/30/IA.html</guid>
-      </item>
-    
-      <item>
-        <title>《通用设计法则》读书笔记</title>
-        <category>设计</category>
-        <description>概述近期学习了《Universal Principles of Design》（又名《通用设计法则》）这本书，该书是一部跨越各专业领域的设计著作，详解常用设计概念，配以图示实例，帮助设计师快速吸...</description>
-        <pubDate>2017-12-02 04:08:12 </pubDate>
-        <link>http://localhost:4000/2017/12/02/Design-Priciples.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/12/02/Design-Priciples.html</guid>
-      </item>
-    
-      <item>
-        <title>应用中的游戏化设计</title>
-        <category>设计</category>
-        <description>游戏化介绍游戏借着其互动性、反馈性、挑战性、快速成长性等特点，拥有着让玩家长期专注于其中的神奇力量。而若将游戏的这些特点引入到一般的产品设计上，也可能会产生意想不到的效果，这就是游戏化。游戏化的...</description>
-        <pubDate>2017-04-13 06:12:38 </pubDate>
-        <link>http://localhost:4000/2017/04/13/Gamification.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/04/13/Gamification.html</guid>
-      </item>
-    
-      <item>
-        <title>【智能文字读取】交互思考</title>
-        <category>设计</category>
-        <description>文字读取指的是应用对用户输入的内容进行匹配识别，若内容中包含相应的关键字，则应用会触发与该关键字相关的相应提示。最常见的是当在QQ聊天中包含钱、打款、转账等关键字时，QQ则会在聊天界面中出现相应...</description>
-        <pubDate>2017-04-12 07:26:17 </pubDate>
-        <link>http://localhost:4000/2017/04/12/Intelligent-text-reading-interaction.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/04/12/Intelligent-text-reading-interaction.html</guid>
-      </item>
-    
-      <item>
-        <title>媒介与体验</title>
-        <category>设计</category>
-        <description>想写这篇文章很久了，但是思路比较零碎，题目也起得比较大，文中仅把自己的所见所想记录下来。媒介形态对体验的影响广义的媒介，按麦克卢汉的观点，则包含了所有人体感官能到达的地方，即“媒介是人的延伸”。...</description>
-        <pubDate>2017-02-12 06:14:32 </pubDate>
-        <link>http://localhost:4000/2017/02/12/media-and-experience.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/02/12/media-and-experience.html</guid>
-      </item>
-    
-      <item>
-        <title>日记应用|项目|学生时代</title>
-        <category>设计</category>
-        <description>对话式日记应用“小呆”是对chatbot设计的尝试，取名为“小呆”也是考虑到展现产品亲切化、拟人化的形象。问题发现通过对使用过相关日记应用的用户（即有写日记需求的用户）的交谈和调查，我们发现用户...</description>
-        <pubDate>2017-01-10 08:05:31 </pubDate>
-        <link>http://localhost:4000/2017/01/10/diary.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/01/10/diary.html</guid>
-      </item>
-    
-      <item>
-        <title>链接打开方式的博弈</title>
-        <category>设计</category>
-        <description>如今网站中链接打开方式主要有两种：当前页面打开（默认/target=”_self”）和在新标签页（target=”_blank”）中打开。将链接设置为在新窗口中打开很少用到，一是来回切换窗口很麻...</description>
-        <pubDate>2016-10-17 03:33:32 </pubDate>
-        <link>http://localhost:4000/2016/10/17/links-open-ways.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/10/17/links-open-ways.html</guid>
-      </item>
-    
-      <item>
-        <title>背词App|项目|学生时代</title>
-        <category>设计</category>
-        <description>项目背景开始做该项目是因为程序小伙伴数据结构课程的一个作业demo，意图通过深度学习算法来简化背单词的工作。希望基于此demo将其做成一个完整的背词应用软件。竞品分析            ——...</description>
-        <pubDate>2016-10-07 03:24:18 </pubDate>
-        <link>http://localhost:4000/2016/10/07/mwords.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/10/07/mwords.html</guid>
       </item>
     
   </channel>

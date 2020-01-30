@@ -2,7 +2,6 @@
 layout: blog
 design: true
 background: green
-istop: true
 background-image: ../thumbnails/the-value-of-design/title.png
 category: 设计
 title: 做有价值的设计
