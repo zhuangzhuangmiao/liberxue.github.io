@@ -3,7 +3,7 @@ layout: blog
 design: true
 background: blue
 istop: true
-background-image: http://zhuangzhuangmiao.github.io/thumbnails/principles-of-design/title.png
+background-image: ../thumbnails/principles-of-design/title.png
 category: 设计
 title: 《通用设计法则》读书笔记
 tags:
