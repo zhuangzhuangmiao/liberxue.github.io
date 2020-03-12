@@ -97,30 +97,30 @@
       </item>
     
       <item>
+        <title>信息架构设计</title>
+        <category>设计</category>
+        <description>关于信息架构，在实习期间有做相关的梳理：《认识信息架构》，现在回头看当时的分析发现其实还停留在非常表象的层面，且更多是对《信息架构 超越Web设计》这本书的学习总结，这次的重新学习和实践加深了我...</description>
+        <pubDate>2018-11-07 02:24:23 </pubDate>
+        <link>http://localhost:4000/2018/11/07/Information-architecture-design.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/07/Information-architecture-design.html</guid>
+      </item>
+    
+      <item>
+        <title>竞品分析理解与实践</title>
+        <category>设计</category>
+        <description>由于Q4的活力单元是进行竞品分析，因为是当项目经理，所以在这次实践过程中同时进行了竞品分析主题阅读，强化对竞品分析的理解与实践。以下整理了相关竞品分析的阅读总结与个人思考竞品分析过程竞品收集–&...</description>
+        <pubDate>2018-10-21 06:03:12 </pubDate>
+        <link>http://localhost:4000/2018/10/21/competitive-analysis.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/21/competitive-analysis.html</guid>
+      </item>
+    
+      <item>
         <title>常见平台设计规范解读</title>
         <category>设计</category>
         <description>概念在资料搜索的时候发现，有许多听起来相似的概念：设计原则、设计规范、设计语言、设计系统，这些概念要怎么区分，概念间又有什么关系？在对各概念做了一个详细了解加上导师的梳理讲解之后之后，我梳理出了...</description>
         <pubDate>2018-03-13 04:32:11 </pubDate>
         <link>http://localhost:4000/2018/03/13/Design-Guidelines.html</link>
         <guid isPermaLink="true">http://localhost:4000/2018/03/13/Design-Guidelines.html</guid>
-      </item>
-    
-      <item>
-        <title>记一次以前</title>
-        <category>生活</category>
-        <description>记一次以前。从来都不念旧的，直到昨晚云音乐被分享了门德尔松，突然疯了一般找其它的曲子，找雅尼，找理查德克莱曼，班得瑞，李斯特，宗次郎。直到再一次听到夜莺,故乡的原风景还有很多叫不动名字的曲子。突...</description>
-        <pubDate>2018-03-09 07:16:11 </pubDate>
-        <link>http://localhost:4000/2018/03/09/Memory.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/03/09/Memory.html</guid>
-      </item>
-    
-      <item>
-        <title>解读信息架构</title>
-        <category>设计</category>
-        <description>对于交互设计师来说，信息架构设计是工作中最核心的内容之一，本文主要从信息架构的定义、组成、和策略三个方面对信息架构做一个相对全面的诠释，为交互设计的工作提供理论依据和方法指导。信息架构的定义关于...</description>
-        <pubDate>2017-12-30 22:33:05 </pubDate>
-        <link>http://localhost:4000/2017/12/30/IA.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/12/30/IA.html</guid>
       </item>
     
   </channel>
