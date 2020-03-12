@@ -79,12 +79,16 @@ redirect_from:
 - 可以多关注用户体验量化方面的知识，增加报告相关结论的说服力
 - 分析时的思考可以都记录下来，分析报告或当前阶段可能用不上，但可以留到后续阶段竞品分析，或者作为扩充对产品理解
 
+### 参考资料 
+
 [如何选出最有价值的竞品，为我所用？](http://www.woshipm.com/pmd/737183.html)
+
 [B端产品竞品分析：如何用低成本方法获取更多信息？](http://www.woshipm.com/pd/895748.html)
+
 [竞品分析的8个方法：他山之石，可以攻玉](http://www.woshipm.com/pmd/733224.html)
+
 [竞品分析报告的几个错误](http://www.woshipm.com/pmd/76876.html)
 
 [好的竞品分析报告的思路应该是这样的](https://www.jianshu.com/p/de69b9ab9d00?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
 
 
-  
